@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DivTech-TestTask</string>
+    <string name="btn_login">Login</string>
+    <string name="text_username">Username</string>
+    <string name="text_password">Password</string>
+    <string name="error_password">Please enter valid password!</string>
+    <string name="error_username">Please enter valid username!</string>
+</resources>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.room:room-runtime:2.3.0-beta03@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60c3dbc96a7e47c447d225d640899f40/room-runtime-2.3.0-beta03/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60c3dbc96a7e47c447d225d640899f40/room-runtime-2.3.0-beta03/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60c3dbc96a7e47c447d225d640899f40/room-runtime-2.3.0-beta03/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60c3dbc96a7e47c447d225d640899f40/room-runtime-2.3.0-beta03/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.room/room-runtime/2.3.0-beta03/2b0ff986cbbdec28b8d18b06dbead9938658edcc/room-runtime-2.3.0-beta03-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
